@@ -6,6 +6,7 @@
 
 ## Deliverables
 
+
 This lab is missing the `App` component that `index.js` is looking for. To pass
 the tests in this lab:
 
